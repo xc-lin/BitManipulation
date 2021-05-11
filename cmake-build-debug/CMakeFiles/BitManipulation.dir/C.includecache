@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/BitManipulation/bits.c
+stdio.h
+-
+assert.h
+-
+bits.h
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/BitManipulation/bits.h
+
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/BitManipulation/bits.h
+
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/BitManipulation/hash.c
+bits.h
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/BitManipulation/bits.h
+
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/BitManipulation/s.c
+bits.h
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/BitManipulation/bits.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/BitManipulation/showBits.c
+bits.h
+/Users/a606/CLionProjects/unsw/comp9315/Exercise/BitManipulation/bits.h
+

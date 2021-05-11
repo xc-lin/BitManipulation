@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/BitManipulation.dir/bits.c.o CMakeFiles/BitManipulation.dir/hash.c.o CMakeFiles/BitManipulation.dir/s.c.o CMakeFiles/BitManipulation.dir/showBits.c.o -o BitManipulation 
